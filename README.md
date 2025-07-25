@@ -1,4 +1,4 @@
-# http2-proxy-server-cpp
+# HTTP/2 Proxy Server
 <p align="center">
   <p>
     Demo of how the handshake is performed in the HTTP/2 protocol
